@@ -5,5 +5,3 @@ Hi :3
 -Occasional gamedev, mostly uses Godot.
 
 -Js and c++ enjoyer, also makes random shit in python sometimes.
-
--RAIN WORLD 
